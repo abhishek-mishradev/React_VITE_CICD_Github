@@ -1,4 +1,4 @@
-// import React from 'react'
+//
 
 const List = () => {
   const names = ["John", "Jane", "Alice", "Bob"];

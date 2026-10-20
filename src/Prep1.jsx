@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Prep1 = () => {
   const handleClick = (event) => {
     console.log(event.currentTarget.dataset.userId); // 101
