@@ -1,5 +1,3 @@
-import React from "react";
-
 // const Child = (props) => {
 // const Child = ({name}) => {
 const Child = ({ name, count, onIncrement, onDecrement, onReset }) => {

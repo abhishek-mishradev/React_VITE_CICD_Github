@@ -1,4 +1,4 @@
-// import React from "react";
+//
 // import Counter from "./Counter";
 // import ControlledInput from "./ControlledInput";
 // import FetchAPIData from "./FetchAPIData";
@@ -38,7 +38,7 @@ const index = () => {
       {/* <Timer/> */}
       {/* <Stopwatch /> */}
       {/* <Pagination/> */}
-      <SearchFilterList/>
+      <SearchFilterList />
     </div>
   );
 };
